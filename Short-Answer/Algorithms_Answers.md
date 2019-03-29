@@ -23,3 +23,4 @@ Add your answers to the Algorithms exercises here.
     2. Go to the middle floor of the remaining floors and repeat the first
      step.
     
+    Time complexity is O(log n)

@@ -16,4 +16,10 @@ Add your answers to the Algorithms exercises here.
     
 ## Exercise II
 
-    1. Use divide-and-conquer method to find the f floor. 
+    1. Use divide-and-conquer method to find the f floor. Start with a mid-
+     point (n // 2) of n floors, then check to see if eggs break at that 
+     floor. If they do, all the floors above can be eliminated. If eggs
+     do not break at that level, all of the floors below can be eliminated.
+    2. Go to the middle floor of the remaining floors and repeat the first
+     step.
+    
